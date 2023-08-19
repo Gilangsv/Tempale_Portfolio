@@ -142,3 +142,21 @@ section::before {
 #work-3:hover::after{
     content:'Web Project';
 }
+/* CSS Contact */
+.contact::before{
+    content:'Contact';   
+}
+.contact{
+    padding-bottom: 128px;
+}
+.contact-form{
+    border: 1px solid black;
+    border-radius: 24px;
+    padding: 64px 32px;
+}
+.form-label{
+    font-weight: 500;
+}
+.col.work-img{
+    font-weight: 300;
+}
